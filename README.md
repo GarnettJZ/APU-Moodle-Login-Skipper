@@ -13,7 +13,7 @@ You know the drill. To get to Moodle, you have to:
 3. Find the Moodle button.
 4. Click it.
 
-This multi-step dance is required for every temporary session. Why use 5 seconds when you can use only 1?
+This multi-step dance is required for every temporary session. But, why use 5 seconds when you can use only 1?
 
 ## ✨ What It Does
 
