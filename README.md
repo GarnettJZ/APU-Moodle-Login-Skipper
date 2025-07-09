@@ -1,7 +1,5 @@
 # APU Moodle Login Skipper 🚀
 
-[![Install from GitHub](https://img.shields.io/badge/Install%20from-GitHub-blue.svg)](https://raw.githubusercontent.com/GarnettJZ/APU-Moodle-Login-Skipper/main/apu-auto-login.user.js)
-
 A cheeky little Tampermonkey script that logs you straight into Moodle, because who has time to click through APSpace? Now with extra smarts to handle bad passwords!
 
 ## 🤔 The Annoying Part
@@ -29,12 +27,13 @@ This multi-step dance is required for every temporary session. But, why use 5 se
 ### Step 1: Install a Userscript Manager
 You'll need a browser extension to run this script. The best one is [**Tampermonkey**](https://www.tampermonkey.net/). Head over to their site and grab the version for your browser (Chrome, Firefox, Edge, etc.).
 
-### Step 2: Install This Script
-1. Click the **Tampermonkey** icon in your browser and choose **"Create a new script..."**.
-2. Delete all the default text in the editor.
-3. Copy all the code from the `` apu-auto-login.user.js `` file in this repository.
-4. Paste the code into the empty Tampermonkey editor.
-5. Go to **File** -> **Save**.
+### Step 2: Enable Userscript Injection (Important!!!)
+Due to recent browser security updates, you must first give Tampermonkey permission to run scripts. For detailed instructions on how to do this, please refer to the official [**Tampermonkey FAQ**](https://www.tampermonkey.net/faq.php#Q209).
+
+### Step 3: Install This Script
+You can now install the script in one click:
+[![Install from GitHub](https://img.shields.io/badge/Install%20from-GitHub-blue.svg)](https://raw.githubusercontent.com/GarnettJZ/APU-Moodle-Login-Skipper/main/apu-auto-login.user.js)
+A new tab will open in Tampermonkey. Just click the "Install" button.
 
 ## 👇 How to Use It
 
