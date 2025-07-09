@@ -32,7 +32,7 @@ You'll need a browser extension to run this script. The best one is [**Tampermon
 ### Step 2: Install This Script
 1. Click the **Tampermonkey** icon in your browser and choose **"Create a new script..."**.
 2. Delete all the default text in the editor.
-3. Copy all the code from the `` `apu-auto-login.user.js` `` file in this repository.
+3. Copy all the code from the `` apu-auto-login.user.js `` file in this repository.
 4. Paste the code into the empty Tampermonkey editor.
 5. Go to **File** -> **Save**.
 
