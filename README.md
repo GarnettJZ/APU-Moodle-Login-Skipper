@@ -9,11 +9,11 @@ A cheeky little Tampermonkey script that logs you straight into Moodle, because 
 You know the drill. To get to Moodle, you have to:
 
 1. Go to APSpace.
-2. Log in.
+2. Log in (If you haven't).
 3. Find the Moodle button.
 4. Click it.
 
-This multi-step dance is required for every temporary session. This script says "nah" to all that and takes you straight to the good stuff.
+This multi-step dance is required for every temporary session. Why use 5 seconds when you can use only 1?
 
 ## ✨ What It Does
 
@@ -44,7 +44,7 @@ You'll need a browser extension to run this script. The best one is [**Tampermon
 3. Once you enter them, you're all set. The script will log you in.
 
 ### Enjoy the Freedom
-That's it! Just bookmark the login page. From now on, it'll log you in automatically. If you ever mistype your password, the script will catch the error and let you enter it again.
+That's it! Just bookmark the login page to your browser. From now on, it'll log you in automatically. If you ever mistype your password, the script will catch the error and let you enter it again.
 
 ## 🔒 A Quick Word on Security
 
@@ -55,4 +55,4 @@ This script is pretty safe since it only saves your info on your own computer. B
 
 ## 🤙 The Fine Print
 
-This was made for fun to solve a personal annoyance. Use it at your own risk, and don't blame me if something goes weird!
+This was made for fun to solve a personal annoyance. Use it at your own risk!
